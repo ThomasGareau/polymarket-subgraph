@@ -12,7 +12,7 @@
 
 * pnl-subgraph
 
-* polymarket-subgraph
+* polymarket-subgraph 
 
 * sports-oracle-subgraph
 
